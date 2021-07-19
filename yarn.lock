@@ -2516,7 +2516,7 @@
     pino-pretty "5.1.0"
     uuid "8.3.2"
 
-"@redwoodjs/auth@0.35.1":
+"@redwoodjs/auth@0.35.1", "@redwoodjs/auth@^0.35.1":
   version "0.35.1"
   resolved "https://registry.yarnpkg.com/@redwoodjs/auth/-/auth-0.35.1.tgz#251825c5fe2cffc96e30f5ecf7715c7cec189c96"
   integrity sha512-pR+cG5UrWaMcP9P3hL8aDsdsz3aDa7U5XCqNb5x2+jBrg53SV+Ui+BwSv4IcsqmAWFEUUAcxDAQutRiTIabJjQ==
@@ -12647,6 +12647,11 @@ nested-error-stacks@^2.0.0, nested-error-stacks@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz#0fbdcf3e13fe4994781280524f8b96b0cdff9c61"
   integrity sha512-AO81vsIO1k1sM4Zrd6Hu7regmJN1NSiAja10gc4bX3F0wd+9rQmcuHQaHVQCYIEC8iFXnE+mavh23GOt7wBgug==
+
+netlify-identity-widget@^1.9.1:
+  version "1.9.1"
+  resolved "https://registry.yarnpkg.com/netlify-identity-widget/-/netlify-identity-widget-1.9.1.tgz#9e716c4b92b9f0cc041074eb86fc962f35295b46"
+  integrity sha512-9oIWjwUSdRk3SkREcZNjZaVuDDx9T/wSIXZNQsQeY4qoXic/FiXVEGgu2RU3IuA4OI3L2652xY1o+PpS03Ugaw==
 
 new-github-issue-url@^0.2.1:
   version "0.2.1"
